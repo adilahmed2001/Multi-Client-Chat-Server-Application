@@ -1,4 +1,4 @@
-Developed a Multi-Client Chat Server application enabling real-time communication between multiple clients. Implemented message broadcasting to ensure that all connected clients receive messages simultaneously. Designed the system to handle concurrent client connections efficiently.
+Developed a Multi-Client Chat Server application using JAVA enabling real-time communication between multiple clients. Implemented message broadcasting to ensure that all connected clients receive messages simultaneously.
 
 Key Features:
 
